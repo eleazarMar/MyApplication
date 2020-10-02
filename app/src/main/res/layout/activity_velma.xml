@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".velma">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="405dp"
+        android:layout_height="593dp"
+        android:text="@string/velma_dinkley_a_fictional_character_in_the_scooby_doo_franchise_she_is_higly_intelligent_and_has_specific_interests_in_science_because_of_this_she_is_known_as_the_quot_brains_quot_of_the_group_a_running_gag_in_the_show_is_velma_s_severe_nearsightedness_and_having_trouble_keeping_her_glasses_on_her_face_so_you_can_often_times_see_her_losing_her_glasses_while_being_chased_by_a_villian_she_is_also_usually_seen_wearing_a_baggy_orange_turtleneck_a_pleated_red_skirt_knee_socks_red_shoes_and_of_course_her_glasses"
+        android:textColor="#DF9322"
+        android:textSize="24sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+</androidx.constraintlayout.widget.ConstraintLayout>

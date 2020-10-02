@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fred">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="400dp"
+        android:layout_height="577dp"
+        android:text="@string/fred_jones_a_fictional_character_from_the_scooby_doo_franchise_he_usually_takes_the_lead_when_solving_mysteries_with_the_gang_he_is_also_the_one_that_is_often_shown_building_traps_for_the_villians_in_the_show_he_can_be_seen_wearing_a_white_shirt_blue_jeans_and_in_most_versions_a_orange_ascot_tie"
+        android:textColor="#0FD9F3"
+        android:textSize="30sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

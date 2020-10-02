@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Shaggy">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="404dp"
+        android:layout_height="578dp"
+        android:text="@string/shaggy_rogers_a_fictional_character_in_the_scooby_doo_franchise_he_is_known_as_the_cowardly_slacker_and_the_long_time_best_friend_of_scooby_doo_shaggy_is_part_of_a_group_that_goes_around_solving_mysteries_but_he_is_typically_more_interested_in_eating_than_solving_mysteries_he_can_usually_be_seen_wearing_a_green_v_neck_t_shirt_and_maroon_pants"
+        android:textColor="#3A6508"
+        android:textSize="30sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
